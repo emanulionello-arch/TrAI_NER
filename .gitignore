@@ -1,0 +1,17 @@
+# Python virtual environment & build artifacts
+lib/
+bin/
+include/
+share/
+etc/
+pyvenv.cfg
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Test Corpus/corpus_test_stress.txt
+Test Corpus/corpus_test_stress.txt
+benchmarking_and_demo/video_demo.zip
