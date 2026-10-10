@@ -1,6 +1,6 @@
 # TrAI_NER
 
-** TrAI_NER** is an interactive corpus query tool developed for an academic Natural Language Processing project. It combines **spaCy** rule- and statistical-based Named Entity Recognition (NER) pipelines with **local LLMs via Ollama** to enable semantic, natural language interrogation of annotated textual corpora.
+**TrAI_NER** is an interactive corpus query tool developed for an academic Natural Language Processing project. It combines **spaCy** rule- and statistical-based Named Entity Recognition (NER) pipelines with **local LLMs via Ollama** to enable semantic, natural language interrogation of annotated textual corpora.
 
 ---
 
